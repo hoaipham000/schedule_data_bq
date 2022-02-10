@@ -1,0 +1,21 @@
+
+version: 2
+
+models:
+    - name: wiki_data_table_first
+      description: "A first dbt model"
+      # columns:
+      #     - name: id
+      #       description: "The primary key for this table"
+      #       tests:
+      #           - unique
+      #           - not_null
+
+    - name: wiki_data_table_second
+      description: "A second dbt model"
+      # columns:
+      #     - name: id
+      #       description: "The primary key for this table"
+      #       tests:
+      #           - unique
+      #           - not_null
