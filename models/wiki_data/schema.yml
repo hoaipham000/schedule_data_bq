@@ -2,7 +2,7 @@
 version: 2
 
 models:
-    - name: wiki_data_table_first
+    - name: wiki_data_table_first_haha
       description: "A first dbt model"
       # columns:
       #     - name: id
