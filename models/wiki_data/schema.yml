@@ -11,11 +11,14 @@ models:
       #           - unique
       #           - not_null
 
-    - name: wiki_data_table_second
-      description: "A second dbt model"
+    - name: wiki_data_multi_project
+      description: "A third dbt model"
       # columns:
       #     - name: id
       #       description: "The primary key for this table"
       #       tests:
       #           - unique
       #           - not_null
+
+    - name: wiki_data_table_second
+      description: "A second dbt model"
